@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/html/TourPrj/web/item.jsp</file>
+            <file>file:/D:/html/TourPrj/src/java/daos/TourDAO.java</file>
+            <file>file:/D:/html/TourPrj/src/java/controllers/ViewTourInfoController.java</file>
+            <file>file:/D:/html/TourPrj/src/java/dtos/FolderDTO.java</file>
+            <file>file:/D:/html/TourPrj/src/java/controllers/EditTourController.java</file>
+            <file>file:/D:/html/TourPrj/web/myCart.jsp</file>
+            <file>file:/D:/html/TourPrj/web/error.jsp</file>
+            <file>file:/D:/html/TourPrj/web/sideBar.jsp</file>
+            <file>file:/D:/html/TourPrj/web/admin.jsp</file>
+            <file>file:/D:/html/TourPrj/src/java/controllers/InsertUserController.java</file>
+            <file>file:/D:/html/TourPrj/src/java/dtos/ValidationFailObj.java</file>
+            <file>file:/D:/html/TourPrj/src/java/controllers/OpenPhotoFolderController.java</file>
+            <file>file:/D:/html/TourPrj/src/java/controllers/UpdateTourController.java</file>
+            <file>file:/D:/html/TourPrj/src/java/dtos/TourDTO.java</file>
+            <file>file:/D:/html/TourPrj/src/java/controllers/InsertTourController.java</file>
+            <file>file:/D:/html/TourPrj/src/java/controllers/MainController.java</file>
+            <file>file:/D:/html/TourPrj/src/java/controllers/PrintCartController.java</file>
+            <file>file:/D:/html/TourPrj/web/insertUser.jsp</file>
+            <file>file:/D:/html/TourPrj/web/index.jsp</file>
+            <file>file:/D:/html/TourPrj/src/java/controllers/AddToCartController.java</file>
+            <file>file:/D:/html/TourPrj/web/insertTour.jsp</file>
+            <file>file:/D:/html/TourPrj/test/NewMain.java</file>
+        </group>
+    </open-files>
+</project-private>
